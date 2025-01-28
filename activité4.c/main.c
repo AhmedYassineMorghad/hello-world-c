@@ -1,10 +1,6 @@
-#include <stdio.h>
-#include "1.h"
+#ifndef 1.h
+#define 1.h
 
-int main() {
-    int a = 10, b = 5;
+int multiplication (int a, b, c);
 
-    printf("multiplication : %d * %d = %d\n" a, b, multiplication(a, b));
-
-    return 0;
-}
+#endif
