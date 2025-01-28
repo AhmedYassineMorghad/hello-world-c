@@ -4,8 +4,8 @@
 int main() {
     int a = 10, b = 5;
 
-    printf("Addition : %d + %d = %d\n", a, b, addition(a,b));
-    printf("Soustraction : %d + %d = %d\n", a, b, soustraction(a,b));
+    printf("Addition : %d + %d = %d\n", a, b, addition(a, b));
+    printf("Soustraction : %d + %d = %d\n", a, b, soustraction(a,b ));
 
     return 0;
 }
