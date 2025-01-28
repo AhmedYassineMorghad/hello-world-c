@@ -1,6 +1,5 @@
-#ifndef 1.h
-#define 1.h
+#include "1.c"
 
-int multiplication (int a, b, c);
-
-#endif
+int multiplication (int a, int b) {
+    return a * b;
+}
